@@ -22,4 +22,4 @@
 - Optimized lead compound (aurintricarboxylic acid) improving binding affinity by 3.14 kcal/mol
 
 
-![Results](cdc14model.png)
+![Results](cdc14model.PNG)
