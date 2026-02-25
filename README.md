@@ -1,5 +1,5 @@
  # About 
- wrote a paper on genetic engineering for crop pathogens with friends Jeremy Alexander and Jacob Friedman
+ ## Wrote a paper on genetic engineering for crop pathogens with friends Jeremy Alexander and Jacob Friedman
 
 Protein Expression & Purification:
 
