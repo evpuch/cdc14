@@ -20,3 +20,6 @@
 - Built homology model using S. cerevisiae Cdc14 as template 
 - Screened 11 potential inhibitors using molecular docking
 - Optimized lead compound (aurintricarboxylic acid) improving binding affinity by 3.14 kcal/mol
+
+
+[Results](cdc14model.png)
